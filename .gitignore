@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+campus.db
+__pycache__/
+.env
